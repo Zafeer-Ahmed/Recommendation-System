@@ -181,6 +181,10 @@ The signed error is centered slightly above zero, meaning the model tends to ove
 
 The Flask app builds the content-based model on startup (a few seconds). Users rate a set of popular movies from a dropdown and receive 10 recommendations based on genre similarity.
 
+![Web UI](charts/webUI.png)
+<br><br>
+![Web UI Recommendation](charts/webUI_recommend.png)
+
 ---
 
 ## Known Limitations
