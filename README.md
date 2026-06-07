@@ -42,7 +42,7 @@ movie-recommender/
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/Zafeer-Ahmed/movie-recommender.git
 cd movie-recommender
 pip install -r requirements.txt
 ```
